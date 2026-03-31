@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/HP/Desktop/javascript/mathgraph-project/apps/web/app/globals.css"],"sourcesContent":["* {\r\n  box-sizing: border-box;\r\n  margin: 0;\r\n  padding: 0;\r\n}\r\n\r\nbody {\r\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\r\n  background: #0f1117;\r\n  color: #e2e8f0;\r\n  min-height: 100vh;\r\n}\r\n\r\nbutton {\r\n  cursor: pointer;\r\n}"],"names":[],"mappings":"AAAA;;;;;;AAMA;;;;;;;AAOA"}}]
-}
