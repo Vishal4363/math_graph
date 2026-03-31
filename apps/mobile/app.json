@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "MathGraph",
+    "slug": "mathgraph",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "backgroundColor": "#0f1117"
+    },
+    "platforms": [
+      "ios",
+      "web",
+      "android"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-asset"
+    ],
+    "android": {
+      "package": "com.anonymous.mathgraph"
+    }
+  }
+}
